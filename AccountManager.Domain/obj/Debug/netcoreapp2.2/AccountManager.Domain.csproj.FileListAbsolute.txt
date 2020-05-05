@@ -1,0 +1,9 @@
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.Domain\bin\Debug\netcoreapp2.2\AccountManager.Domain.deps.json
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.Domain\bin\Debug\netcoreapp2.2\AccountManager.Domain.dll
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.Domain\bin\Debug\netcoreapp2.2\AccountManager.Domain.pdb
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.Domain\obj\Debug\netcoreapp2.2\AccountManager.Domain.csprojAssemblyReference.cache
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.Domain\obj\Debug\netcoreapp2.2\AccountManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.Domain\obj\Debug\netcoreapp2.2\AccountManager.Domain.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.Domain\obj\Debug\netcoreapp2.2\AccountManager.Domain.AssemblyInfo.cs
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.Domain\obj\Debug\netcoreapp2.2\AccountManager.Domain.dll
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.Domain\obj\Debug\netcoreapp2.2\AccountManager.Domain.pdb

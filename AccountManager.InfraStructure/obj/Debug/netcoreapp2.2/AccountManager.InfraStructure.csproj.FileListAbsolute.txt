@@ -1,0 +1,16 @@
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\bin\Debug\netcoreapp2.2\AccountManager.InfraStructure.deps.json
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\bin\Debug\netcoreapp2.2\AccountManager.InfraStructure.dll
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\bin\Debug\netcoreapp2.2\AccountManager.InfraStructure.pdb
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\bin\Debug\netcoreapp2.2\AccountManager.Domain.dll
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authorization.dll
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\bin\Debug\netcoreapp2.2\AccountManager.Domain.pdb
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authorization.xml
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\obj\Debug\netcoreapp2.2\AccountManager.InfraStructure.csprojAssemblyReference.cache
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\obj\Debug\netcoreapp2.2\AccountManager.InfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\obj\Debug\netcoreapp2.2\AccountManager.InfraStructure.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\obj\Debug\netcoreapp2.2\AccountManager.InfraStructure.AssemblyInfo.cs
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\obj\Debug\netcoreapp2.2\AccountManager.InfraStructure.csproj.CopyComplete
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\obj\Debug\netcoreapp2.2\AccountManager.InfraStructure.dll
+C:\Users\marco\Downloads\Desafio-Net-master\Desafio-Net-master\AccountManager.InfraStructure\obj\Debug\netcoreapp2.2\AccountManager.InfraStructure.pdb
